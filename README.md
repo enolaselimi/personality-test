@@ -13,7 +13,7 @@ Welcome to the **Personality Test Java GUI** project! This application is a grap
 To get started with this project, follow these steps:
 
 1. **Clone the Repository.**
-2. **Navigate to the project directory.**
+2. **Navigate to the project directory on terminal.**
 3. **Compile the project:** Ensure you have JDK installed. Compile the Java files using: _javac -d bin src/test/*.java_
 4. **Run the Application:** After compiling, run the application using: _java -cp bin test.MBTIdemo_
 
